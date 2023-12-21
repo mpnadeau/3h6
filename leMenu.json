@@ -1,0 +1,40 @@
+{
+    "plats": [
+        {
+            "typePlat": "Entree",
+            "nomPlat": "Soupe automnale",
+            "descriptionPlat": "Soupe cr&eacute;meuse &agrave; la citrouille grill&eacute;e et aux p&eacute;pins de grenade.",
+            "nomImage": "soupe.jpg"
+        },
+        {
+            "typePlat": "Entree",
+            "nomPlat": "Salade gourmande",
+            "descriptionPlat": "Salade d'&eacute;pinards et de fraises, garnie de fromage feta et de noix.",
+            "nomImage": "salade.jpg"
+        },
+        {
+            "typePlat": "Principal",
+            "nomPlat": "Po&ecirc;l&eacute;e de gnocchis",
+            "descriptionPlat": "Gnocchis aux &eacute;pinards et aux tomates cerises, garnis de parmesant et de persil.",
+            "nomImage": "gnocchis.jpg"
+        },
+        {
+            "typePlat": "Principal",
+            "nomPlat": "Poulet au s&eacute;same",
+            "descriptionPlat": "Poulet style asiatique au s&eacute;same, servis avec vermicelles de riz et tomates cerises.",
+            "nomImage": "poulet.jpg"
+        },
+        {
+            "typePlat": "Dessert",
+            "nomPlat": "D&eacute;cadent au chocolat",
+            "descriptionPlat": "Onctueuse mousse au chocolat au lait, napp&eacute;e d'un coulis au chocolat noir, accompagn&eacute; de fraises.",
+            "nomImage": "chocolat.jpg"
+        },
+        {
+            "typePlat": "Dessert",
+            "nomPlat": "Tartelette au citron",
+            "descriptionPlat": "Tartelette au citron frais, agr&eacute;ment&eacute;e de fleurs de meringue &agrave; l'&eacute;rable.",
+            "nomImage": "citron.jpg"
+        }
+    ]
+}
